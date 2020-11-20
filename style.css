@@ -91,3 +91,12 @@ color: #fff200;
 .links:hover{
 background-color: blue;    
 }
+a{
+text-decoration: none;    
+}
+.article:hover{
+color: fuchsia;    
+}
+html{
+scroll-behavior: smooth;    
+}
